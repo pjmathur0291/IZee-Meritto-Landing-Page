@@ -1,0 +1,198 @@
+@media screen and (min-width: 200px) and (max-width: 768px) {
+    .header-layout-section{
+        padding: 20px 10px;
+    }
+    .header-layout-logo {
+        width: 100%;
+        justify-content: center;
+    }
+    .driven-results-discriptions{
+        width: 100% !important;
+    }
+    .headerlayout-btn { 
+        font-size: 14px;
+        line-height: 22px;
+        padding: 10px 25px;
+    }
+    .hero-banner-section {
+        padding: 40px 10px;
+        background-position: left;
+    }
+    .hero-banner-mainheading
+    {
+        width: 100%;
+        font-size: 32px;
+        line-height: 42px;
+    }
+ 
+    .hero-banner-discriptions {
+        width: 100%;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .hero-button-layout{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .headerlayout-Download{
+        width: 100%;
+    font-size: 14px;
+    padding: 10px 25px;
+}
+  .headerlayout-viewpro{
+        width: 100%;
+    font-size: 14px;
+    padding: 10px 25px;
+}
+.hero-section-fromlayouts-heading {
+    font-size: 18px;
+}
+.hero-section-formlayouts { 
+    border-radius: 15px;
+    padding: 30px 15px;
+}
+
+.driven-results-section {
+    padding: 40px 10px;
+}
+.driven-results-heading{
+    font-size: 26px;
+    line-height: 36px;
+}
+.driven-results-counter {
+    border-radius: 5px;
+    border: 1px solid #F3F4F6;
+    height: 147px !important;
+    background: #fff;
+    padding: 30px 20px;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.05);
+}
+.credibility-backed-card{
+    min-height: 260px !important;
+}
+.footer-program-heading{
+    padding-bottom: 7px !important;
+}
+.driven-results-counter-number{
+    color: #1E2939;
+    font-size: 26px;
+}
+.driven-results-counter-text{
+    color: #64748B;
+    text-transform: uppercase;
+}
+.mba-powered-ibm-section{
+    padding: 40px 10px;
+}
+.mba-powered-ibm-container-bg  {
+background-position: left;
+padding: 30px 15px;
+border-radius: 10px;
+}
+.mba-powered-ibm-contant img{
+    width: 80%!important;
+}
+.mba-powered-ibm-heading  {
+    width: 100%;
+    font-size: 26px;
+    line-height: 36px;
+}
+.mba-powered-ibm-discription p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.program-overview-layout {
+    padding: 40px 10px;  
+}
+.program-overview-subheading {
+    padding-bottom: 0px;
+    font-size: 12px;
+}
+.program-overview-heading{
+    font-size: 26px;
+    line-height: 36px;
+    padding-bottom: 10px;
+}
+.program-overviewheading {
+    font-size: 18px;
+    line-height: 26px;
+ padding-bottom: 20px;
+}
+.programoverview-card .card-title {
+    font-size: 18px;
+}
+.programoverview-card .card-body {
+    padding: 30px 20px!important;
+}
+.undergraduate-programs-layouts {
+    padding: 40px 10px;
+
+}
+.why-chosesection-layout  {
+    padding: 40px 10px;
+    padding-bottom: 60px;
+ background-position: left;
+
+}
+
+.whyChosecardone {
+    margin-top: 3%;
+}
+.whyChosecardtwo {
+    margin-top: 3%;
+}
+.whyChosecardthree {
+    margin-top: 3%;
+}
+/*.card-row-ones {*/
+/*    margin-bottom: 50%;*/
+/*}*/
+/*.card-row-oness {*/
+/*    margin-top: 45%;*/
+/*}*/
+
+.why-chosesection-card{
+    justify-content: left;
+}
+
+.credibility-backed-layout{
+    padding: 40px 10px;
+    
+}
+.results-reflected-layout
+ {
+    padding: 40px 10px;
+ }
+ .driven-results-counter-numbers {
+    font-size: 26px;
+ }
+ .success-card .card-body img {
+     width: 100%;
+    height: 280px!important;
+    object-fit: fill;
+ }
+ .success-card .card-body{
+  padding:20px 0px 0px 0px!important;
+ }
+ .life-izeesection {
+    padding: 40px 10px;
+    padding-bottom: 120px;
+ }
+ .ready-journey-section {
+    padding: 40px 15px;
+ }
+ .program-overview-discriptions {
+    width: 100%;
+ }
+ .ready-journey-section { 
+    margin-bottom: 30px;
+ }
+ .footer-section-main {
+    padding: 0px 10px;
+ }
+ .footercopy-right-contnat {
+    padding: 10px 0px;
+ }
+
+}

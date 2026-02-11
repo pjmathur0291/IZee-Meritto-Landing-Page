@@ -1,0 +1,703 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.clear-both{
+    clear: both !important;
+}
+.header-layout-section {
+    border-bottom: 1px solid #E2E8F0;
+    background: rgba(255, 255, 255, 0.80);
+    padding: 14px 0px;
+}
+
+.headerlayout-btn {
+    border-radius: 6px;
+    background: #FB0F0C;
+    border: solid 1px #FB0F0C;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    padding: 12px 30px;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.headerlayout-btn:hover {
+    border: solid 1px #FB0F0C;
+    background: #fff;
+    color: #FB0F0C;
+}
+
+.hero-banner-section {
+    padding: 120px 0px;
+    background: url('../images/Section (20).webp') no-repeat center center;
+    background-size: cover;
+
+}
+
+.hero-banner-admission-open {
+    border-radius: 30px;
+    width: max-content;
+    border: 1px solid #E2E8F0;
+    background: #FFF;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    padding: 7px 20px;
+    color: #475569;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.hero-banner-mainheading {
+    width: 90%;
+    color: #0F172A;
+    font-family: "Inter", sans-serif;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 67px;
+}
+
+.hero-banner-discriptions {
+    width: 80%;
+    color: #475569;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.hero-banner-list-layout ul {
+    list-style: none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.hero-banner-list-layout ul li {
+    color: #334155;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    padding-bottom: 10px;
+}
+
+.headerlayout-Download {
+    border-radius: 8px;
+    background: #0F172A;
+    border: solid 1px #0F172A;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.10), 0 4px 6px -4px rgba(0, 0, 0, 0.10);
+    padding: 14px 30px;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.headerlayout-Download:hover {
+    border: solid 1px #0F172A;
+    background: #fff;
+    color: #0F172A;
+}
+
+.headerlayout-Apply {
+    border-radius: 8px;
+    background: #FFF;
+    border: solid 1px #D32F2F;
+    padding: 16px 30px;
+    color: #D32F2F;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.headerlayout-Apply:hover {
+    border: solid 1px #D32F2F;
+    background: #D32F2F;
+    color: #fff;
+}
+
+.headerlayout-download-brochure {
+    border-radius: 8px;
+    border: 1px solid #ffff;
+    background: #0000;
+    padding: 15px 30px;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.headerlayout-download-brochure:hover {
+    border: solid 1px #D32F2F;
+    background: #D32F2F;
+    color: #fff;
+}
+
+.headerlayout-viewpro {
+    border-radius: 8px;
+    border: 1px solid #E2E8F0;
+    background: #FFF;
+    padding: 14px 30px;
+    color: #334155;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.headerlayout-viewpro:hover {
+    border: solid 1px #334155;
+    background: #334155;
+    color: #fff;
+}
+
+.hero-section-formlayouts {
+    border-radius: 32px;
+    border-top: 4px solid #FB0F0C;
+    background: #FFF;
+    box-shadow: 0 25px 50px -12px rgba(15, 23, 42, 0.10);
+    padding: 30px;
+}
+
+.hero-section-fromlayouts-heading {
+    color: #0F172A;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.hero-section-fromlayouts-subheading {
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.driven-results-section {
+    background: linear-gradient(94deg, #FB0F0C 10.67%, #A30CFB 112.13%);
+    padding: 60px 0px;
+}
+
+.driven-results-heading {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px;
+}
+
+.driven-results-discriptions {
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    width: 85% !important;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.driven-results-counter-number {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.driven-results-counter-text {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    padding-top: 5px;
+    text-transform: uppercase;
+}
+
+.mba-powered-ibm-section {
+    padding: 80px 0px;
+    background-color: #fff;
+}
+
+.mba-powered-ibm-container-bg {
+    padding: 40px;
+    background: url('../images/Main Container (3).webp') no-repeat center center;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.mba-powered-ibm-heading {
+    width: 85%;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 44px;
+    line-height: 54px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.mba-powered-ibm-heading .gradient-text {
+    background: linear-gradient(90deg, #FB100C 0%, #B20DD3 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #dc3545a8;
+}
+
+.mba-powered-ibm-button-layout {
+    width: max-content;
+    border-left: 1px solid #FFF;
+    background: rgba(255, 255, 255, 0.10);
+    padding: 12px 20px;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.mba-powered-ibm-discription p {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.mba-powered-ibm-discription ul {
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.mba-powered-ibm-discription ul li {
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    padding-bottom: 6px;
+    line-height: 26px;
+}
+
+.program-overview-layout {
+    padding: 80px 0px;
+}
+
+.program-overview-subheading {
+    color: #DC2626;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.program-overview-heading {
+    color: #0F172A;
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 46px;
+    padding-bottom: 10px;
+}
+
+.program-overview-discription {
+    color: #475569;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.program-overviewheading {
+    color: #0F172A;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.programoverview-card .card {
+    border-radius: 16px;
+    border: 1px solid #E2E8F0;
+    background: #FFF;
+}
+
+.programoverview-card .card-body {
+    padding: 30px !important;
+}
+
+.programoverview-card .card-title {
+    color: #0F172A;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.programoverview-card .card-subtitle {
+    color: #94A3B8;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.programoverview-card .card-text {
+    color: #64748B;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.programoverview {
+    color: #DC2626;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.undergraduate-programs-layouts {
+    padding-bottom: 80px;
+    background-color: #fff;
+}
+
+
+.undergraduate-programsliders .owl-nav {
+    position: absolute;
+    bottom: 50%;
+    right: 60px;
+    transform: translateY(50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none;
+}
+
+.undergraduate-programsliders .owl-prev {
+    margin-left: 0px !important;
+    border-radius: 83px;
+    border: 1px solid #6E6E6E;
+    background: rgba(255, 255, 255, 0.80);
+    box-shadow: 0 3.333px 5.833px 0 rgba(81, 246, 177, 0.30), 0 21.667px 22.833px 0 rgba(0, 102, 59, 0.15), 0 5px 10px 0 rgba(0, 102, 59, 0.12), 0 1.667px 4.167px 0 rgba(0, 102, 59, 0.10), 0 5px 9.25px 0 rgba(0, 102, 59, 0.05), 0 0.833px 0.833px 0 rgba(255, 255, 255, 0.40) inset;
+}
+
+.undergraduate-programsliders .owl-next {
+    margin-right: -120px !important;
+    border-radius: 83px;
+    border: 1px solid #6E6E6E;
+    background: rgba(255, 255, 255, 0.80);
+    box-shadow: 0 3.333px 5.833px 0 rgba(81, 246, 177, 0.30), 0 21.667px 22.833px 0 rgba(0, 102, 59, 0.15), 0 5px 10px 0 rgba(0, 102, 59, 0.12), 0 1.667px 4.167px 0 rgba(0, 102, 59, 0.10), 0 5px 9.25px 0 rgba(0, 102, 59, 0.05), 0 0.833px 0.833px 0 rgba(255, 255, 255, 0.40) inset;
+}
+
+.undergraduate-programsliders .owl-nav button {
+    pointer-events: all;
+    background: #000;
+    color: #6E6E6E;
+    border-radius: 50% !important;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+    transition: 0.3s ease;
+}
+
+.undergraduate-programsliders .owl-nav button:hover {
+    background: #B61316 !important;
+    opacity: 1;
+}
+
+.undergraduate-programsliders .owl-nav i {
+    font-size: 18px;
+}
+
+.credibility-backed-layout {
+    padding: 60px 0px;
+    background: linear-gradient(94deg, #FB0F0C 10.67%, #A30CFB 112.13%);
+}
+
+.credibility-backed-card {
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.10);
+    background: #FFF;
+    padding: 15px;
+    min-height: 290px;
+}
+
+.credibility-backed-card-heading {
+    color: #000;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    padding-top: 10px;
+}
+
+.results-reflected-layout {
+    padding: 80px 0px;
+    background: #0F172A;
+}
+
+.results-reflected-counterlayout {
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #334155;
+    background: #1E293B;
+}
+
+.driven-results-counter-numbers {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.success-card {
+    border-radius: 4px;
+    border-bottom: 2.5px solid #FB0F0C;
+    border: 1px solid #FFF;
+    overflow: hidden;
+    height: 100%;
+    position: relative;
+    background-color: #111928;
+}
+
+.success-card .card-body {
+
+    padding:25px 0px 0px 0px!important;
+}
+
+.success-card .card-body img {
+    width: 100%;
+    height: 250px !important;
+}
+
+.success-card h6 {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    padding-left: 25px;
+    margin-bottom: 0px;
+}
+
+.success-card p {
+    color: #bfc7d5;
+    font-size: 12px;
+    margin-bottom: 10px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    padding-left: 25px;
+}
+
+.company-logo {
+    width: 100%;
+    height: auto !important;
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.life-izeesection {
+    padding: 80px 0px;
+    padding-bottom: 160px;
+}
+
+.footer-section-main {
+    padding: 0px 0px;
+    background-color: #1A1A1A;
+}
+
+.ready-journey-section {
+    border-radius: 20px;
+    background: #FB0F0C;
+    padding: 56px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+    margin-top: -80px;
+}
+
+.program-overview-discriptions {
+    width: 70%;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    /* 140% */
+}
+
+.footer-logo-layouts p {
+    color: #9CA3AF;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.footer-logo-layouts img {
+    width: 50%;
+}
+
+.footer-program-heading {
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.footer-program-layout ul {
+    list-style: none;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.footer-program-layout ul li {
+    color: #9CA3AF;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 8px;
+}
+
+.footercopyright {
+    padding: 25px 0px;
+    border-top: solid 1px #FFFFFF1A;
+}
+
+.footercopy-right-contnat {
+    color: #6B7280;
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.why-chosesection-layout {
+    padding: 80px 0px;
+    background: url('../images/banner.webp') no-repeat center center;
+    background-size: cover;
+}
+
+.why-chosesection-card {
+    padding: 20px 15px;
+    border-radius: 16px;
+    border: 1px solid #F3F4F6;
+    background: #FFF;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;
+}
+.why-chosesection-cards {
+    padding: 20px 15px;
+    border-radius: 16px;
+    border: 1px solid #F3F4F6;
+    background: #FFF;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+}
+
+.why-chosesection-cards h4 {
+    color: #1E2939;
+    text-align: right;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+}
+.why-chosesection-card h4 {
+    color: #1E2939;
+    text-align: right;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+}
+
+.whyChosecardone {
+    margin-top: 7%;
+}
+.whyChosecardtwo {
+    margin-top: 12%;
+}
+.whyChosecardthree {
+    margin-top: 12%;
+}
+.driven-results-discriptions{
+    width: 85% !important;
+}
+.mba-powered-ibm-discription p{
+    font-weight: 300 !important;
+}
+.mba-powered-ibm-discription b{
+    font-weight: 700 !important;
+}
