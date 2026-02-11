@@ -214,6 +214,10 @@ a {
     font-weight: 400;
     line-height: 28px;
 }
+.result-placement-discriptions{
+    color: #94A3B8;
+    font-weight: 400 !important;
+}
 
 .driven-results-counter-number {
     color: #FFF;
@@ -229,7 +233,7 @@ a {
     font-family: "Inter", sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 20px;
     padding-top: 5px;
     text-transform: uppercase;
@@ -287,6 +291,9 @@ a {
     font-weight: 300;
     line-height: normal;
 }
+.mba-powered-ibm-discription b{
+    font-weight: 700 !important;
+}
 
 .mba-powered-ibm-discription ul {
     padding-left: 10px;
@@ -340,8 +347,10 @@ a {
 .program-overviewheading {
     color: #0F172A;
     font-family: "Inter", sans-serif;
-    font-size: 20px;
+    font-size: 14px;
     font-style: normal;
+    text-transform: uppercase;
+    padding-bottom: 24px;
     font-weight: 700;
     line-height: 28px;
 }
@@ -529,7 +538,7 @@ a {
 
 .success-card p {
     color: #bfc7d5;
-    font-size: 12px;
+    font-size: 10px;
     margin-bottom: 10px;
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -585,7 +594,7 @@ a {
 .footer-logo-layouts p {
     color: #9CA3AF;
     font-family: "Inter", sans-serif;
-    font-size: 15px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
