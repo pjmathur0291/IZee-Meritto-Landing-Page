@@ -50,6 +50,15 @@ a {
     font-size: 14px;
     font-style: normal;
     font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.hero-banner-admission-open .admission-icon {
+    width: 13px;
+    height: 13px;
+    flex-shrink: 0;
 }
 
 .hero-banner-mainheading {
@@ -402,6 +411,43 @@ a {
     font-weight: 500;
     line-height: 20px;
     text-decoration: none;
+}
+.program-heading{
+    padding-bottom: 0 !important;
+}
+.svg-line-div{
+    width: 4%;
+}
+.programoverview-card .card-image-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 16px 16px 0 0;
+    height: auto;
+}
+
+.programoverview-card .card-img-top {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.5s ease;
+    border-radius: 16px 16px 0 0;
+}
+
+.programoverview-card .card-image-wrapper:hover .card-img-top {
+    transform: scale(1.1);
+}
+
+.programoverview-card .card-icon-overlay {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+}
+
+.programoverview-card .icon-svg {
+    width: 60px;
+    height: 60px;
+    display: block;
 }
 
 .undergraduate-programs-layouts {
